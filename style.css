@@ -1,0 +1,85 @@
+.bg{
+    background-color: #fceae8;
+}
+.price{
+    color: #ff13cf;
+}
+.slider{
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+
+.carousel-item{
+    padding: 20px 40px;
+}
+
+.cat1, .cat2, .cat3{
+    padding:  10px 30px;
+    border-radius: 15px;
+    margin: 10px 20px;
+    color: white;
+    
+
+}
+
+.cat img{
+    width: 80px;
+
+}
+.carousel-indicators li{
+    height: 8px;
+    border-radius: 50%;
+    background-color: gray;
+}
+.card{
+    border: none;
+    border-radius: 20px;
+    margin-right: 25px;
+    box-shadow: 0 3px 10px 0 lightgray;
+    text-align: center;
+}
+
+.card:hover{
+    border: 1px solid lightgray;
+   
+    border-radius: 10px;
+    box-shadow: 0 10px 25px 0 rgb(127, 172, 109);
+    text-align: center;
+}
+.card img{
+    width: 70%;
+    margin: 20px auto;
+    margin-top: 50px;
+}
+.card-title{
+    font-weight: bold;
+}
+.card-text{
+    color: gray;
+    font-size: 14px;
+}
+.card-footer{
+    border-top: none;
+    background-color: #fff;
+}
+.cat1{  
+    background-image: linear-gradient(to bottom, #3fc1f5 0%, #1936d6 100%);  
+}
+.cat2{
+    background-image: linear-gradient(to bottom, #3fc1f5 0%, #bea430 100%);
+}
+.cat3{
+    background-image: linear-gradient(to bottom, #3fc1f5 0%, #c2403b 100%);
+}
+.shoes{
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+.contectus{
+    margin-top: 50px;
+    margin-bottom: 30px;
+    height: 250px;
+    
+}
+    
